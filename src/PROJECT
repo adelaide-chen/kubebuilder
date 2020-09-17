@@ -1,0 +1,7 @@
+domain: my.domain
+repo: gomodule
+resources:
+- group: batch
+  kind: MyBook
+  version: v1
+version: "2"

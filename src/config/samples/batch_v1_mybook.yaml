@@ -1,0 +1,7 @@
+apiVersion: batch.my.domain/v1
+kind: MyBook
+metadata:
+  name: mybook-sample
+spec:
+  # Add fields here
+  foo: bar
